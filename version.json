@@ -5,7 +5,7 @@
   "changelog": "- Notificações e mensagens personalizadas via GitHub\n- Verificação e popup automático ao abrir a app\n- Botão Atualizar Agora direto nas Definições\n- Correção de contraste e áudio",
   "messages": [
     {
-      "id": 2,
+      "id": 1,
       "title": "⚽ Bem-vindo ao SmartFlintstones!",
       "message": "Aproveite a melhor programação em direto, filmes e séries. Bom entretenimento!",
       "date": "2026-11-26 20:00:00"

@@ -2,5 +2,13 @@
   "versionCode": 20,
   "versionName": "5.1",
   "apkUrl": "https://github.com/andreoy1988/smartflintstones-/releases/download/v5.1/SmartFlintstones_v5.1.apk",
-  "changelog": "- Corrigida sincronização de áudio na TV ao vivo\n- Opção de escolha entre Novo ExoPlayer Media3 e Player Nativo IJK\n- Correção do contraste no seletor de reprodutor\n- Notificações de atualização no sino da tela inicial\n- Botão Procurar Atualizações dedicado nas Definições\n- Cursor de escrita posicionado no fim da palavra SmartFlinstones no login"
+  "changelog": "- Notificações e mensagens personalizadas via GitHub\n- Verificação e popup automático ao abrir a app\n- Botão Atualizar Agora direto nas Definições\n- Correção de contraste e áudio",
+  "messages": [
+    {
+      "id": 1,
+      "title": "⚽ Bem-vindo ao SmartFlintstones!",
+      "message": "Aproveite a melhor programação em direto, filmes e séries. Bom entretenimento!",
+      "date": "2026-11-26 20:00:00"
+    }
+  ]
 }

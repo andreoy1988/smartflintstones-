@@ -1,14 +1,14 @@
 {
   "versionCode": 20,
   "versionName": "5.1",
-  "apkUrl": "https://github.com/andreoy1988/smartflintstones-/releases/download/v5.1/SmartFlintstones_v5.1.apk",
-  "changelog": "- Notificações e mensagens personalizadas via GitHub\n- Verificação e popup automático ao abrir a app\n- Botão Atualizar Agora direto nas Definições\n- Correção de contraste e áudio",
+  "apkUrl": "https://github.com/andreoy1988/smartflintstones-/releases/download/v5.1/SmartFlintstonesNEW_v5.1.apk",
+  "changelog": "- Nova Versão SmartFlintstonesNEW v5.1!\n- Suporte total Media3 ExoPlayer\n- Sistema de Limpeza de Cache de emergência no Login e Perfil\n- Melhorias de estabilidade e novas rotas",
   "messages": [
     {
       "id": 1,
-      "title": "⚽ Bem-vindo ao SmartFlintstones!",
-      "message": "Aproveite a melhor programação em direto, filmes e séries. Bom entretenimento!",
-      "date": "2026-11-26 20:00:00"
+      "title": "⚽ Bem-vindo ao SmartFlintstonesNEW!",
+      "message": "Aproveite a melhor programação em direto, filmes e séries no novo SmartFlintstonesNEW. Bom entretenimento!",
+      "date": "2026-11-27 12:00:00"
     }
   ]
 }
